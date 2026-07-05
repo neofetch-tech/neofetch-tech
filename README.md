@@ -5,9 +5,6 @@
 ### 👤 user@liquidarium:~$ whoami
 
 I'm a backend and systems developer focused on building high-performance server applications, scalable microservices, and robust data-processing systems. I love software architecture design, clean code, container orchestration, and pushing the boundaries of what's possible in distributed backend environments.
-
-![Linux Terminal Git Gif](https://giphy.com/gifs/producthunt-hyper-100-3oz8xRICW5msyoRUv6)
-
 ---
 
 ### ⚙️ user@liquidarium:~$ neofetch --system-info
