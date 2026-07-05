@@ -6,7 +6,7 @@
 
 I'm a backend and systems developer focused on building high-performance server applications, scalable microservices, and robust data-processing systems. I love software architecture design, clean code, container orchestration, and pushing the boundaries of what's possible in distributed backend environments.
 
-![Linux Terminal Git Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdtcm9wY25ndHphcm03cXNid3N2cnZ4N2dycTZ4Zms3M295N2Z0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3knKct3fGqxhK/giphy.gif) *(Можеш замінити посилання на будь-яку свою гіфку)*
+![Linux Terminal Git Gif](https://giphy.com/gifs/producthunt-hyper-100-3oz8xRICW5msyoRUv6)
 
 ---
 
