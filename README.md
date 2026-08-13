@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://ru.pinterest.com/pin/973692381953945832/" width="100%">
+<img src="assets/завантаження(3).jpg" width="100%">
 
 # Hey, I'm yu 👋
 
@@ -14,7 +14,6 @@
 Currently learning:
 
 - C
-- C++
 - Linux
 - Computer Science
 
