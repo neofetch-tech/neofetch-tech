@@ -2,9 +2,9 @@
 
 <img src="https://media.tenor.com/0AVbKGY_MxMAAAAC/anime.gif" width="500"/>
 
-# Hi, I'm Liqui 👋
+# Hi, I'm yu 👋
 
-### Student • Programmer • Linux Enjoyer
+### Programmer and Linux Enjoyer
 
 </div>
 
