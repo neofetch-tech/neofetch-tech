@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/завантаження(3).jpg" width="100%">
 
 # Hey, I'm yu 👋
 
@@ -29,4 +28,3 @@ Currently learning:
 
 ---
 
-> "If it works, don't touch it."
