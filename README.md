@@ -1,20 +1,18 @@
 <div align="center">
 
-
 # Hey, I'm yu 👋
 
-### Linux Enjoyer • Neovim User • Student Programmer
+### Linux Enjoyer • Neovim User • Student DevOps/Programmer
 
 </div>
 
 ---
 
-
 Currently learning:
 
-- C
+- Python/Go
 - Linux
-- Computer Science
+- k8s and Docker
 
 ---
 
@@ -22,9 +20,9 @@ Currently learning:
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Neovim](https://img.shields.io/badge/Neovim-black?style=for-the-badge&logo=neovim)
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 ---
-
