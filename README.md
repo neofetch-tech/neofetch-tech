@@ -1,8 +1,5 @@
 <div align="center">
-
-<!-- Фанова чорно-біла гіфка -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2ZnRndDNhcm91N3NneXlyc3FxeWVvd2RndzVsZG9vbm1pZ2R1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svv20N4LnA/giphy.gif" width="280" alt="Coding GIF"/>
-
+  
 # 🖤 Hey, I'm yuuw!
 
 **Android Developer | Linux Enthusiast | Code & Coffee**
