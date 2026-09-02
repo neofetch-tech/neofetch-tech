@@ -2,7 +2,7 @@
   
 # 🖤 Hey, I'm yuuw!
 
-**Android Developer | Linux Enthusiast | Code & Coffee**
+**Android Developer | Linux Enthusiast**
 
 ---
 
