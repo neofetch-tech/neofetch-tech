@@ -1,8 +1,11 @@
 <div align="center">
 
-# 🖤 Hey, I'm an yuuw!
+<!-- Фанова чорно-біла гіфка -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2ZnRndDNhcm91N3NneXlyc3FxeWVvd2RndzVsZG9vbm1pZ2R1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svv20N4LnA/giphy.gif" width="280" alt="Coding GIF"/>
 
-**Building smooth mobile experiences, writing clean code, and tweaking Linux terminal configs.**
+# 🖤 Hey, I'm yuuw!
+
+**Android Developer | Linux Enthusiast | Code & Coffee**
 
 ---
 
@@ -21,5 +24,5 @@
 ### ⚡ Quick Stats & Fun
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=neofetch-tech&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333" alt="GitHub Stats" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neofetch-tech&theme=dark&background=000000&border=333333&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=cccccc" alt="GitHub Streak" width="420"/>
 </p>
