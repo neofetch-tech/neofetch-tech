@@ -23,5 +23,5 @@
 
 <!-- Чорно-біла статистика (використовує кастомну тему) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neofetch-tech&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=neofetch-tech&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333" alt="GitHub Stats" width="420"/>
 </p>
