@@ -2,7 +2,7 @@
   
 # 🖤 Hey, I'm yuuw!
 
-**C# Developer | Linux Enthusiast**
+**Linux Enthusiast**
 
 ### ⚡ Quick Stats & Fun
 
