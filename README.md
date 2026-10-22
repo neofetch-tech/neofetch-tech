@@ -2,10 +2,6 @@
 
 # Hey, I'm yuuw!
 
-**Linux Enthusiast**
-
----
-
 <img src="./Рей Аянами.jpg" width="300" alt="Rei Ayanami" />
 
 ---
