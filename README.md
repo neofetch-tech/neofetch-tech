@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://cdn.simpleicons.org/rust/DEA584" width="48" height="48" alt="Rust" title="Rust" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="48" height="48" alt="C" title="C" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="48" height="48" alt="C" title="C" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" title="GNU Bash" />
   &nbsp;&nbsp;&nbsp;&nbsp;
